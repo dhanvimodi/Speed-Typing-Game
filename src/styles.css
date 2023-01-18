@@ -38,4 +38,6 @@ html, body {
     background: #00b800;
     padding: 10px;
   }
-  
+  textarea:disabled{
+    opacity: 0.9;
+  }
